@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarteraCliente</string>
+    <string name="cabecera">Introducir datos del cliente</string>
+    <string name="totalRegistros">Numero</string>
+    <string name="cliente">Cliente</string>
+    <string name="telefono">Telefono</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="guardarRegistro">Guardar Registro</string>
+    <string name="campoVacio">Campo Vacio</string>
+</resources>
